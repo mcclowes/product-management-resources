@@ -20,9 +20,15 @@
 
 - Reddit
 
-# Tweets
+# Twitter
+
+## Tweets
 
 - [Shreyas Doshi](https://twitter.com/shreyas/status/1303150374124048386?s=20), Stripe
+
+## Accounts
+
+- [Josh Elman](https://twitter.com/joshelman)
 
 # Decks
 
