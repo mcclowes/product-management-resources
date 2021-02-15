@@ -1,0 +1,7 @@
+# Process
+
+# Pitfalls
+
+- Biases
+
+# Data
