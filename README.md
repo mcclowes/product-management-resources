@@ -14,8 +14,16 @@
 
 # Events
 
-- PM School have webinars several times a day (for free)
+- [Product School](https://productschool.com/product-management-events/) have webinars several times a day (for free)
 
 # Communities
 
 - Reddit
+
+# Tweets
+
+- [Shreyas Doshi](https://twitter.com/shreyas/status/1303150374124048386?s=20), Stripe
+
+# Decks
+
+- [18 Fintech Decks](https://airtable.com/shrfiRDIaI97m1Oie/tblYyHnAa6jqt512f/viwCn38dub1LlppJJ?blocks=hide)
