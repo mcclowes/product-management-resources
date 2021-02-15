@@ -11,3 +11,11 @@
 # Resources
 
 - https://github.com/hugo53/awesome-ProductManager
+
+# Events
+
+- PM School have webinars several times a day (for free)
+
+# Communities
+
+- Reddit
