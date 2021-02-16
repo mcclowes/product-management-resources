@@ -13,7 +13,12 @@
 
 ### Twitter Accounts
 
+I've collected a list here: https://twitter.com/i/lists/1361761255850139649
+
+Below are a choice few:
+
 - [Josh Elman](https://twitter.com/joshelman)
+- [Shreyas Doshi](https://twitter.com/shreyas), Stripe
 
 ## Learn
 
@@ -42,7 +47,7 @@
 
 ### Tweets
 
-- [Shreyas Doshi](https://twitter.com/shreyas/status/1303150374124048386?s=20), Stripe
+- [Shreyas Doshi's best thoughts](https://twitter.com/shreyas/status/1303150374124048386?s=20)
 
 ### Decks
 
