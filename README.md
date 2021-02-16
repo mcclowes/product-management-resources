@@ -10,10 +10,13 @@
 
 - Intercom on Product Management
   - Plus, their [eBook](https://www.intercom.com/resources/books/intercom-product-management)
+- https://www.productpeople.tv/
+- https://tipm.feedbackloop.com/
+- The Exponent
 
-# Resources
+# Newsletters
 
-- https://github.com/hugo53/awesome-ProductManager
+- Stratechery
 
 # Events
 
@@ -21,9 +24,14 @@
 
 # Communities
 
-- Reddit
+- [r/ProductManagement](https://www.reddit.com/r/ProductManagement/), Reddit
+- Product Strategy, Clubhouse
 
 # Twitter
+
+## Accounts
+
+- ...
 
 ## Tweets
 
@@ -36,3 +44,13 @@
 # Decks
 
 - [18 Fintech Decks](https://airtable.com/shrfiRDIaI97m1Oie/tblYyHnAa6jqt512f/viwCn38dub1LlppJJ?blocks=hide)
+
+# Resources
+
+- https://www.sachinrekhi.com/top-resources-for-product-managers
+- https://github.com/hugo53/awesome-ProductManager
+
+# Tools
+
+- Miro
+- 
