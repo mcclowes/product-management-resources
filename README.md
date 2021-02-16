@@ -32,6 +32,10 @@
 - The Exponent
 - https://mastersofscale.com/
 
+### Blogs
+
+- Marty Cagan, [Silicon Valley Product Group](https://svpg.com/articles/)
+
 ### Newsletters
 
 - Stratechery
@@ -53,4 +57,6 @@
 ## Resources
 
 - https://www.sachinrekhi.com/top-resources-for-product-managers
+- https://productvitamins.io/
 - https://github.com/hugo53/awesome-ProductManager
+- https://www.reddit.com/r/ProductManagement/comments/kkql90/best_product_management_content_of_the_year/ghi2oha?utm_source=share&utm_medium=web2x&context=3
