@@ -11,7 +11,7 @@
 - [r/ProductManagement](https://www.reddit.com/r/ProductManagement/), Reddit
 - Product Strategy, Clubhouse
 
-## Twitter Accounts
+### Twitter Accounts
 
 - [Josh Elman](https://twitter.com/joshelman)
 
