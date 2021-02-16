@@ -2,13 +2,14 @@
 
 # Books
 
-- [The Product Manager's Survival Guide](https://www.amazon.co.uk/Product-Managers-Survival-Guide-Everything/dp/1260135233/ref=sr_1_1?dchild=1&keywords=product+manager+survival+guide&qid=1613425090&sr=8-1)
+- [The Product Manager's Survival Guide](https://www.amazon.co.uk/Product-Managers-Survival-Guide-Everything/dp/1260135233/ref=sr_1_1?dchild=1&keywords=product+manager+survival+guide&qid=1613425090&sr=8-1) - Steven Haines
 - Crossing the Chasm
 - The Lean Startup - Eric Ries
 
 # Podcasts
 
-- Intercom on Product Management (+ their eBook) 
+- Intercom on Product Management
+  - Plus, their [eBook](https://www.intercom.com/resources/books/intercom-product-management)
 
 # Resources
 
