@@ -43,7 +43,7 @@ Below are a choice few:
 
 ### Newsletters
 
-- Stratechery
+- [Stratechery](https://stratechery.com/) - Insight into the business strategy side of tech
 
 ### Tweets
 
