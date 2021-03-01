@@ -40,7 +40,8 @@ Below are a choice few:
 ### Blogs
 
 - Marty Cagan, [Silicon Valley Product Group](https://svpg.com/articles/)
-
+- [Toptal PM blog](https://www.toptal.com/product-managers/blog?page=2)
+- 
 ### Newsletters
 
 - [Stratechery](https://stratechery.com/) - Insight into the business strategy side of tech
